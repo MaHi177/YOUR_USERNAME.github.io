@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eab493c6.chunk.css",
+    "main.js": "/static/js/main.174a7713.chunk.js",
+    "main.js.map": "/static/js/main.174a7713.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.884701d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.884701d5.js.map",
+    "static/css/2.df1c62be.chunk.css": "/static/css/2.df1c62be.chunk.css",
+    "static/js/2.a2667931.chunk.js": "/static/js/2.a2667931.chunk.js",
+    "static/js/2.a2667931.chunk.js.map": "/static/js/2.a2667931.chunk.js.map",
+    "static/js/3.ecec7026.chunk.js": "/static/js/3.ecec7026.chunk.js",
+    "static/js/3.ecec7026.chunk.js.map": "/static/js/3.ecec7026.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.df1c62be.chunk.css.map": "/static/css/2.df1c62be.chunk.css.map",
+    "static/css/main.eab493c6.chunk.css.map": "/static/css/main.eab493c6.chunk.css.map",
+    "static/js/2.a2667931.chunk.js.LICENSE.txt": "/static/js/2.a2667931.chunk.js.LICENSE.txt",
+    "static/media/1.29cebf00.jpg": "/static/media/1.29cebf00.jpg",
+    "static/media/2.b1d02a70.jpg": "/static/media/2.b1d02a70.jpg",
+    "static/media/3.2b49fd18.jpg": "/static/media/3.2b49fd18.jpg",
+    "static/media/Pdf.b8031895.pdf": "/static/media/Pdf.b8031895.pdf",
+    "static/media/c2.2be5c00a.jpeg": "/static/media/c2.2be5c00a.jpeg",
+    "static/media/c3.f3f63c0b.jpeg": "/static/media/c3.f3f63c0b.jpeg",
+    "static/media/cards.20667db9.png": "/static/media/cards.20667db9.png",
+    "static/media/faq.b20df8f5.png": "/static/media/faq.b20df8f5.png",
+    "static/media/imgContact.be62b4ab.png": "/static/media/imgContact.be62b4ab.png",
+    "static/media/imgCustomerSupport.10e41b5b.png": "/static/media/imgCustomerSupport.10e41b5b.png",
+    "static/media/imgFreelancers.58779015.svg": "/static/media/imgFreelancers.58779015.svg",
+    "static/media/imgOffers.82f4bc21.svg": "/static/media/imgOffers.82f4bc21.svg",
+    "static/media/imgSignup.baba4f61.svg": "/static/media/imgSignup.baba4f61.svg",
+    "static/media/imgSignupFirst.1ad532a0.svg": "/static/media/imgSignupFirst.1ad532a0.svg",
+    "static/media/imgSignupSecond.3f6859a0.svg": "/static/media/imgSignupSecond.3f6859a0.svg",
+    "static/media/imgSignupThird.d4d7c208.svg": "/static/media/imgSignupThird.d4d7c208.svg",
+    "static/media/logo.8c3c3854.png": "/static/media/logo.8c3c3854.png",
+    "static/media/settingsProfileImage.1c3b08cd.jpg": "/static/media/settingsProfileImage.1c3b08cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.884701d5.js",
+    "static/css/2.df1c62be.chunk.css",
+    "static/js/2.a2667931.chunk.js",
+    "static/css/main.eab493c6.chunk.css",
+    "static/js/main.174a7713.chunk.js"
+  ]
+}
